@@ -1,3 +1,4 @@
+![Amani Zaini - GitHub Banner](./banner.png)
 # Hi, I'm Amani Zaini 👋
 ### Computer Science Graduate | IT Support | Networking
 I'm a Computer Science graduate interested in IT Support, technical troubleshooting, networking, and information security.
