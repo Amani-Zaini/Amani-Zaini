@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Amani Zaini 👋
+### Computer Science Graduate | IT Support | Networking
+I'm a Computer Science graduate interested in IT Support, technical troubleshooting, networking, and information security.
+I'm continuously developing my technical skills through hands-on practice, personal projects, and learning.
+---
 
-<!--
-**Amani-Zaini/Amani-Zaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Areas of Interest
+- IT Support & Technical Troubleshooting
+- Networking Fundamentals
+- Windows & Linux
+- IT Service Management
+- Cybersecurity Fundamentals
+  
+### 🛠️ Technical Skills
+- **Programming**: Python, JavaScript, SQL
+- **Web**: HTML, CSS, Bootstrap
+- **Tools**: Git, GitHub, Microsoft Office
+- **IT**: Networking Fundamentals, Troubleshooting
+  
+### 📂 Featured Projects
+My academic and personal projects are available in my repositories.
 
-Here are some ideas to get you started:
+### 📜 Certifications
+- CompTIA Data+
+- ITIL 4 Foundation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+Always learning. Always improving.
+
